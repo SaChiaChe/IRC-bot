@@ -52,21 +52,17 @@ QUIT
 
 ## Description
 
-An simple IRC robot running on a server made by alexyoung (https://github.com/alexyoung/ircd.js)
+An simple IRC robot running on a IRC server made by alexyoung (https://github.com/alexyoung/ircd.js)
 It has 5 functions:
 
-### 1
+### 1. Connection to Channel & Automatic Introduction Message:
 
-Connection to Channel & Automatic Introduction Message:
-
-Connect to the desired channel and Intrduct itself
+Connect to the desired channel and Introduct itself
 ```
 PRIVMSG #*Channel* :I'm *Username*
 ```
 
-### 2
-
-Daily horoscope:
+### 2. Daily horoscope:
 
 When recieve a message:
 ```
@@ -78,9 +74,7 @@ The bot will reply with a daily horoscope
 今天在你的專業領域上會有好機會降臨
 ```
 
-### 3
-
-Guess Number
+### 3. Guess Number
 
 When recieve a message:
 ```
@@ -93,9 +87,7 @@ if the number is illegal, the bot will ignore it,
 and the bot would give hints if the user guessed a legal number.
 The user can't quit the game before he guessed the correct answer.
 
-### 4
-
-Music bot
+### 4. Music bot
 
 When recieve a message:
 ```
@@ -104,9 +96,7 @@ When recieve a message:
 
 The bot will go to youtube and find a song that is related to the song_name.
 
-### 5
-
-Chat
+### 5. Chat
 
 When recieve a message:
 ```
@@ -123,7 +113,7 @@ just send !bye
 !bye
 ```
 
-and the chat will end
+and the chat will end.
 
 ## Built With
 
