@@ -1,7 +1,7 @@
 # IRC Robot
 A simple IRC robot that has 5 simple functions.
 
-##How to run
+## How to run
 
 Start the program
 ```
