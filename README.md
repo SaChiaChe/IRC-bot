@@ -49,10 +49,9 @@ To close the bot, just input QUIT
 QUIT
 ```
 
-## Description
+## Functions
 
-An simple IRC robot running on a IRC server made by alexyoung (https://github.com/alexyoung/ircd.js)
-It has 5 functions:
+The bot has 5 functions:
 
 ### 1. Connection to Channel & Automatic Introduction Message:
 
