@@ -1,6 +1,5 @@
-# Project Title
-
-IRC Robot
+# IRC Robot
+A simple IRC robot that has 5 simple functions.
 
 ##How to run
 
